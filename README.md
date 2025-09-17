@@ -4,11 +4,11 @@ I’m a Technical Operations Specialist & Researcher with a strong background in
 
 I am:
 
-🧬 Plant biologist & molecular geneticist
-🌱 Crop breeding and field operations specialist
-👩‍🔬 Molecular biology & lab techniques trainer
-📊 Data analyst (R, ArcGIS, SigmaPlot)
-👩‍💻 Continuous improvement advocate & mentor
+- 🧬 Plant biologist & molecular geneticist
+- 🌱 Crop breeding and field operations specialist
+- 👩‍🔬 Molecular biology & lab techniques trainer
+- 📊 Data analyst (R, ArcGIS, SigmaPlot)
+- 👩‍💻 Continuous improvement advocate & mentor
 
 I provide support, training, and expertise in molecular biology techniques, crop research operations, laboratory management, statistical modelling, and geospatial analysis for precision agriculture.
 
@@ -30,7 +30,7 @@ Conducted a Master’s research project on Statistical and In-field Challenges I
 
 Presented research findings at scientific conferences and translated them into actionable recommendations for nutrient management and sustainable agriculture.
 
-Skills & Expertise:
+### Skills & Expertise:
 
 Laboratory techniques: Cell culture, DNA/RNA and protein extraction, PCR, gel electrophoresis (agarose and SDS-PAGE), Western blotting, molecular cloning, recombinant DNA technology, Next Generation Sequencing.
 
@@ -40,11 +40,11 @@ Data analysis: R, SigmaPlot, ArcGIS; statistical and geostatistical modelling fo
 
 Training & leadership: Designing and delivering training, mentoring, and process improvement in academic and industry settings.
 
-Recognitions:
+### Recognitions:
 
-🏆 Multiple Bayer Recognition Awards for leadership, integrity, and efficiency.
-📜 Letter of Commendation from the Department of Biological Sciences, University of Alberta for enhancing the teaching program.
-💰 Awarded ~CAD 85,000 in fellowships and teaching assistantships.
+- 🏆 Multiple Bayer Recognition Awards for leadership, integrity, and efficiency.
+- 📜 Letter of Commendation from the Department of Biological Sciences, University of Alberta for enhancing the teaching program.
+- 💰 Awarded ~CAD 85,000 in fellowships and teaching assistantships.
 
 <!--
 **Musfira992/Musfira992** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
