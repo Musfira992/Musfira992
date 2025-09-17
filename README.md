@@ -32,13 +32,10 @@ Presented research findings at scientific conferences and translated them into a
 
 ### Skills & Expertise:
 
-Laboratory techniques: Cell culture, DNA/RNA and protein extraction, PCR, gel electrophoresis (agarose and SDS-PAGE), Western blotting, molecular cloning, recombinant DNA technology, Next Generation Sequencing.
-
-Field & operations: Tissue sampling coordination, integrated pest management training, SOP optimization, QMS compliance.
-
-Data analysis: R, SigmaPlot, ArcGIS; statistical and geostatistical modelling for crop and soil data.
-
-Training & leadership: Designing and delivering training, mentoring, and process improvement in academic and industry settings.
+- Laboratory techniques: Cell culture, DNA/RNA and protein extraction, PCR, gel electrophoresis (agarose and SDS-PAGE), Western blotting, molecular cloning, recombinant DNA technology, Next Generation Sequencing.\
+- Field & operations: Tissue sampling coordination, integrated pest management training, SOP optimization, QMS compliance.
+- Data analysis: R, SigmaPlot, ArcGIS; statistical and geostatistical modelling for crop and soil data.
+- Training & leadership: Designing and delivering training, mentoring, and process improvement in academic and industry settings.
 
 ### Recognitions:
 
