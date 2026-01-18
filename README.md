@@ -12,7 +12,7 @@ I am:
 
 I provide support, training, and expertise in molecular biology techniques, crop research operations, laboratory management, statistical modelling, and geospatial analysis for precision agriculture.
 
-I've:
+I have:
 
 Led high-volume tissue sampling coordination across early breeding pipeline projects at Bayer Crop Science, collaborating with multiple cross-functional teams to deliver projects on time.
 
