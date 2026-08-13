@@ -1,0 +1,46 @@
+.wrap {
+  display: grid;
+  place-items: center;
+  padding: 1rem 0 0.5rem;
+}
+
+.geneLabel {
+  font-family: ui-monospace, "SF Mono", Menlo, monospace;
+  font-size: 11px;
+  fill: var(--text);
+  text-anchor: end;
+}
+
+.rowLabel {
+  font-family: var(--font-body), system-ui, sans-serif;
+  font-size: 12px;
+  fill: var(--text);
+  text-anchor: end;
+}
+
+.legend {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 2rem;
+  margin-top: 0.75rem;
+}
+
+.legendGroup {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 0.15rem;
+}
+
+.legendLabel {
+  font-size: var(--step--1);
+  color: var(--text-muted);
+}
+
+.legendGradient {
+  width: 120px;
+  height: 12px;
+  border-radius: 6px;
+  background: linear-gradient(to right, color-mix(in srgb, var(--accent) 12%, #fff), var(--accent));
+  border: 1px solid var(--border);
+}
