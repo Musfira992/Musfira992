@@ -14,10 +14,10 @@ export async function generateMetadata({
 }): Promise<Metadata> {
   const { slug } = await params
   const meta = getTutorial(slug)
-  return { title: meta?.title ?? 'Tutorial' }
+  return { title: meta?.title ?? 'Primer' }
 }
 
-export default async function TutorialPage({
+export default async function PrimerPage({
   params,
 }: {
   params: Promise<{ slug: string }>
@@ -37,7 +37,7 @@ export default async function TutorialPage({
   return (
     <article>
       <p style={{ marginBottom: '0.5rem' }}>
-        <Link href="/tutorials">← All tutorials</Link>
+        <Link href="/primers">← All primers</Link>
       </p>
       <h1>{meta.title}</h1>
       <p className="muted" style={{ fontSize: 'var(--step--1)' }}>

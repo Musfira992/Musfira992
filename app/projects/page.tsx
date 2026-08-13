@@ -1,7 +1,5 @@
 import type { Metadata } from 'next'
-import { projects } from '@/content/projects'
-import ProjectCard from '@/components/ProjectCard'
-import styles from './projects.module.css'
+import Link from 'next/link'
 
 export const metadata: Metadata = { title: 'Projects' }
 
@@ -10,14 +8,37 @@ export default function Projects() {
     <section>
       <h1>Projects</h1>
       <p className="lede">
-        Selected research and operations work across crop science, molecular
+        Data science and research work across crop science, molecular
         biology, and precision agriculture.
       </p>
-      <div className={styles.grid}>
-        {projects.map((p) => (
-          <ProjectCard key={p.title} project={p} />
-        ))}
-      </div>
+
+      <p>
+        <Link
+          href="/blog/enhancing-nutrient-use-efficiency-for-sustainable-agriculture"
+          className="button"
+        >
+          Enhancing Nutrient Use Efficiency for Sustainable Agriculture →
+        </Link>
+      </p>
+      <p className="muted">
+        In this post, we begin with the real-world challenge of improving
+        nutrient use efficiency in modern agriculture, and evaluate
+        alternative statistical models to more accurately quantify nitrogen
+        responsiveness.
+      </p>
+
+      <h2>My Research</h2>
+      <p>
+        <a href="https://ualberta.scholaris.ca/items/23bdbfc3-c9ad-453e-8940-219eab399e6c">
+          Statistical and In-field Challenges Involved in Quantifying Crop
+          Nitrogen Use Efficiency (NUE) and Spatial Soil Fertility in Central
+          Alberta
+        </a>
+      </p>
+      <p className="muted">
+        My Master&apos;s thesis, hosted on the University of Alberta&apos;s
+        research repository.
+      </p>
     </section>
   )
 }

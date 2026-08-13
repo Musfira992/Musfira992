@@ -73,6 +73,20 @@ hr {
   margin: 2.5rem 0;
 }
 
+blockquote {
+  border-left: 3px solid var(--accent);
+  margin: 0 0 1rem;
+  padding: 0.25rem 0 0.25rem 1.25rem;
+  max-width: var(--measure);
+  color: var(--text-muted);
+  font-style: italic;
+}
+blockquote p { margin-bottom: 0.5rem; }
+blockquote p:last-child { margin-bottom: 0; }
+
+figure { margin: 0 0 1.5rem; }
+figure img { max-width: 100%; height: auto; border-radius: 8px; display: block; }
+
 code {
   font-family: ui-monospace, "SF Mono", Menlo, monospace;
   font-size: 0.9em;

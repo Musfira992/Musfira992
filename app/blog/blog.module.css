@@ -27,8 +27,4 @@
   margin: 0;
   font-size: var(--step--1);
   color: var(--text-muted);
-  display: flex;
-  align-items: center;
-  flex-wrap: wrap;
-  gap: 0.5rem;
 }

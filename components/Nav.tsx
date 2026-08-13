@@ -5,8 +5,10 @@ const links = [
   { href: '/about', label: 'About' },
   { href: '/cv', label: 'CV' },
   { href: '/projects', label: 'Projects' },
-  { href: '/tutorials', label: 'Tutorials' },
   { href: '/resources', label: 'Resources' },
+  { href: '/blog', label: 'Blog Posts' },
+  { href: '/primers', label: 'Primers' },
+  { href: '/teaching', label: 'Teaching and Training' },
 ]
 
 export default function Nav() {
