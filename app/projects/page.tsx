@@ -27,6 +27,22 @@ export default function Projects() {
         responsiveness.
       </p>
 
+      <p>
+        <Link
+          href="/blog/chemprop-drug-discovery-on-databricks"
+          className="button"
+        >
+          AI Drug Discovery Made Easy: Your Complete Guide to Chemprop on
+          Databricks →
+        </Link>
+      </p>
+      <p className="muted">
+        Notes on using Chemprop, a directed message-passing graph neural
+        network for molecular property prediction, as a managed workflow on
+        Databricks &mdash; from loading pretrained models to training
+        multi-task ADMET regressors.
+      </p>
+
       <h2>My Research</h2>
       <p>
         <a href="https://ualberta.scholaris.ca/items/23bdbfc3-c9ad-453e-8940-219eab399e6c">
