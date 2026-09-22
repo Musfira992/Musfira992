@@ -14,21 +14,14 @@ I provide support, training, and expertise in molecular biology techniques, crop
 
 I have:
 
-Led high-volume tissue sampling coordination across early breeding pipeline projects at Bayer Crop Science, collaborating with multiple cross-functional teams to deliver projects on time.
-
-Increased workflow efficiency by 15% by implementing a continuous cycling product design strategy.
-
-Optimized and documented SOPs for tissue sampling, enhancing efficiency, reducing errors, and improving quality control under a QMS framework.
-
-Trained and mentored staff, including teaching 120+ undergraduates in molecular biology techniques and supervising 15 teaching assistants at the University of Alberta.
-
-Presented operations and workflows to senior leadership teams and during site tours, fostering cross-functional alignment.
-
-Launched a peer-to-peer mentoring program at Bayer, recruiting 15+ mentors and organizing 30+ one-on-one sessions and workshops.
-
-Conducted a Master’s research project on Statistical and In-field Challenges Involved in Quantifying Crop Nitrogen Use Efficiency (NUE) and Spatial Soil Fertility in Central Alberta, comparing statistical models (linear, quadratic, piecewise regression) and geostatistical methods (kriging, cokriging, regression kriging) to improve precision agriculture.
-
-Presented research findings at scientific conferences and translated them into actionable recommendations for nutrient management and sustainable agriculture.
+- Led high-volume tissue sampling coordination across early breeding pipeline projects at Bayer Crop Science, collaborating with multiple cross-functional teams to deliver projects on time.
+- Increased workflow efficiency by 15% by implementing a continuous cycling product design strategy.
+- Optimized and documented SOPs for tissue sampling, enhancing efficiency, reducing errors, and improving quality control under a QMS framework.
+- Trained and mentored staff, including teaching 120+ undergraduates in molecular biology techniques and supervising 15 teaching assistants at the University of Alberta.
+- Presented operations and workflows to senior leadership teams and during site tours, fostering cross-functional alignment.
+- Launched a peer-to-peer mentoring program at Bayer, recruiting 15+ mentors and organizing 30+ one-on-one sessions and workshops.
+- Conducted a Master’s research project on Statistical and In-field Challenges Involved in Quantifying Crop Nitrogen Use Efficiency (NUE) and Spatial Soil Fertility in Central Alberta, comparing statistical models (linear, quadratic, piecewise regression) and geostatistical methods (kriging, cokriging, regression kriging) to improve precision agriculture.
+- Presented research findings at scientific conferences and translated them into actionable recommendations for nutrient management and sustainable agriculture.
 
 ### Skills & Expertise:
 
