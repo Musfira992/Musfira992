@@ -7,6 +7,16 @@ export const primerGroups: PrimerGroup[] = [
     items: [{ name: 'Reading a DNA Sequence', href: '/primers/reading-a-dna-sequence' }],
   },
   {
+    category: 'Command Line',
+    items: [
+      {
+        name: 'Unlocking Bioinformatics: Understanding the Command Line from Scratch',
+        href: '/primers/unlocking-bioinformatics-understanding-the-command-line-from-scratch',
+      },
+      { name: 'Command Line Essentials', href: '/primers/command-line-basics-command-line-essentials' },
+    ],
+  },
+  {
     category: 'Genomics',
     items: [{ name: 'DeepExplainer with the model trained on simulated genomic data from the DeepLIFT' }],
   },
