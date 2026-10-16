@@ -1,62 +1,80 @@
-# Musfira Jamil
+<h1 align="center">Hi, I'm Musfira Jamil 👋</h1>
 
-Technical Operations Specialist and Researcher focused on plant biology, molecular genetics, R&D operations, and data-driven work in agriculture and biotech.
+<p align="center">
+  <b>Plant biologist and molecular geneticist turning sequencing, crop, and soil data into decisions.</b><br/>
+  Bioinformatics · RNA-seq · Statistics &amp; geostatistics · R&amp;D operations
+</p>
 
-I help teams run reliable lab and field operations, train others in molecular techniques, and turn crop and soil data into decisions that stick.
-
-**Quick links:** [Website](https://www.musfirajamil.com) · [Notes](https://www.musfirajamil.com/notes/) · [LinkedIn](https://au.linkedin.com/in/musfirajamil)
-
----
-
-## Featured work
-
-| Project | What it is |
-|---------|------------|
-| [Technical notes handbook](https://www.musfirajamil.com/notes/) ([repo](https://github.com/Musfira992/notes)) | Practical handbook of technical notes for research and ops |
-| [Bioinformatics resources](https://github.com/Musfira992/bioinformatics-resources) | Curated bioinformatics tools, workflows, and references |
-| [Personal site](https://www.musfirajamil.com) ([repo](https://github.com/Musfira992/musfira992.github.io)) | Portfolio and writing at musfirajamil.com |
-| [Awesome Lists](https://github.com/Musfira992/Awesome-Lists) | Curated lists for bioinformatics, data, and practical tooling |
-| [RNA-seq](https://github.com/Musfira992/RNA-seq) | RNA-seq analysis resources and workflows |
-| [NUE analysis](https://github.com/Musfira992/NUE_analysis) | Nitrogen use efficiency analysis from Master's research |
+<p align="center">
+  <a href="https://www.musfirajamil.com"><img alt="Website" src="https://img.shields.io/badge/Website-musfirajamil.com-0A7E5A?style=flat-square"/></a>
+  <a href="https://www.musfirajamil.com/blog/"><img alt="Blog" src="https://img.shields.io/badge/Blog-read-1F6FEB?style=flat-square"/></a>
+  <a href="https://www.musfirajamil.com/notes/"><img alt="Notes" src="https://img.shields.io/badge/Notes-5%20handbooks-8957E5?style=flat-square"/></a>
+  <a href="https://au.linkedin.com/in/musfirajamil"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
+</p>
 
 ---
 
-## I am
+### About me
 
-- Plant biologist and molecular geneticist
-- Crop breeding and field operations specialist
-- Molecular biology and lab techniques trainer
-- Data analyst (R, ArcGIS, SigmaPlot)
-- Continuous improvement advocate and mentor
+I work where the wet lab meets the data. My background is plant biology and molecular genetics (MSc, University of Alberta), followed by R&D operations at Bayer Crop Science. Today I focus on bioinformatics: RNA-seq analysis, pathway enrichment, and reproducible statistical workflows in R and Python.
 
-I provide support, training, and expertise in molecular biology techniques, crop research operations, laboratory management, statistical modelling, and geospatial analysis for precision agriculture.
-
----
-
-## Impact
-
-- Led high-volume tissue sampling coordination across early breeding pipeline projects at Bayer Crop Science, collaborating with multiple cross-functional teams to deliver projects on time.
-- Increased workflow efficiency by ~15% by implementing a continuous cycling product design strategy.
-- Optimised and documented SOPs for tissue sampling, enhancing efficiency, reducing errors, and improving quality control under a QMS framework.
-- Trained and mentored staff, including teaching 120+ undergraduates in molecular biology techniques and supervising 15 teaching assistants at the University of Alberta.
-- Presented operations and workflows to senior leadership teams and during site tours, fostering cross-functional alignment.
-- Launched a peer-to-peer mentoring program at Bayer, recruiting 15+ mentors and organising 30+ one-on-one sessions and workshops.
-- Conducted a Master's research project on Statistical and In-field Challenges Involved in Quantifying Crop Nitrogen Use Efficiency (NUE) and Spatial Soil Fertility in Central Alberta, comparing statistical models (linear, quadratic, piecewise regression) and geostatistical methods (kriging, cokriging, regression kriging) to improve precision agriculture.
-- Presented research findings at scientific conferences and translated them into actionable recommendations for nutrient management and sustainable agriculture.
+- 🧬 Currently exploring bulk and single-cell RNA-seq, deconvolution, and GSEA
+- 🌱 Background in crop breeding pipelines, tissue sampling, and precision agriculture
+- 📚 Writing practical notes and primers for people learning genomics and data engineering
+- 🤝 Teacher at heart: 120+ undergraduates trained in molecular biology techniques
 
 ---
 
-## Skills and expertise
+### 🔬 Featured bioinformatics work
 
-- **Laboratory techniques:** Cell culture, DNA/RNA and protein extraction, PCR, gel electrophoresis (agarose and SDS-PAGE), Western blotting, molecular cloning, recombinant DNA technology, Next Generation Sequencing.
-- **Field and operations:** Tissue sampling coordination, integrated pest management training, SOP optimisation, QMS compliance.
-- **Data analysis:** R, SigmaPlot, ArcGIS; statistical and geostatistical modelling for crop and soil data.
-- **Training and leadership:** Designing and delivering training, mentoring, and process improvement in academic and industry settings.
+| Project | What it shows |
+|---|---|
+| [**Mouse PDAC RNA-seq: Npy1r knockout**](https://www.musfirajamil.com/blog/mouse-pdac-rnaseq-npy1r-knockout-exploration/) | Bulk RNA-seq on GSE283652: QC, PCA/MDS, differential expression, cell-type deconvolution, and GSEA against MSigDB Hallmark |
+| [**RNA-seq with DESeq2**](https://github.com/Musfira992/RNA-seq) | Differential expression workflow in R |
+| [**Chemprop drug discovery on Databricks**](https://www.musfirajamil.com/blog/chemprop-drug-discovery-on-databricks/) | Molecular property prediction with message-passing neural networks, run end to end on Databricks |
+| [**Nitrogen use efficiency (NUE)**](https://github.com/Musfira992/NUE_analysis) | MSc analysis pipeline in R comparing ratio and regression (linear, quadratic, piecewise) estimates of crop NUE |
+| [**Soil fertility geostatistics**](https://www.musfirajamil.com/blog/comparative-assessment-of-soil-fertility-geostatistics/) | Kriging, cokriging, and regression kriging for spatial soil fertility in central Alberta |
 
 ---
 
-## Recognitions
+### 📚 Notes and resources
 
-- Multiple Bayer Recognition Awards for leadership, integrity, and efficiency.
-- Letter of Commendation from the Department of Biological Sciences, University of Alberta for enhancing the teaching program.
-- Awarded ~CAD 85,000 in fellowships and teaching assistantships.
+| | |
+|---|---|
+| [**Technical notes**](https://www.musfirajamil.com/notes/) ([repo](https://github.com/Musfira992/notes)) | Five handbooks: Genomics, Databricks, Software Engineering for Bioinformatics, Statistics, and Data Generation Techniques |
+| [**Bioinformatics resources**](https://github.com/Musfira992/bioinformatics-resources) | Curated tools, workflows, and references for bioinformatics |
+| [**Awesome Lists**](https://github.com/Musfira992/Awesome-Lists) | Curated lists for bioinformatics, data, and practical tooling |
+
+---
+
+### ✍️ Recent writing
+
+- [Exploring Mouse PDAC RNA-seq: Npy1r Knockout, QC, and Deconvolution](https://www.musfirajamil.com/blog/mouse-pdac-rnaseq-npy1r-knockout-exploration/)
+- [AI Drug Discovery Made Easy: Your Complete Guide to Chemprop on Databricks](https://www.musfirajamil.com/blog/chemprop-drug-discovery-on-databricks/)
+- [Courage, Purpose and Growth](https://www.musfirajamil.com/blog/courage-purpose-and-growth/)
+- [How to Build Explainable Machine Learning Models](https://www.musfirajamil.com/blog/how-to-build-explainable-machine-learning-models/)
+- [Causal Inference in Crop Trials](https://www.musfirajamil.com/blog/causal-inference-in-crop-trials/)
+
+➡️ More on [the blog](https://www.musfirajamil.com/blog/)
+
+---
+
+### 🧰 Toolbox
+
+- **Analysis:** R (DESeq2, tidyverse, gstat) · Python · Julia · SQL · Databricks / Spark
+- **Bioinformatics:** RNA-seq, differential expression, GSEA, deconvolution, NGS
+- **Spatial & stats:** ArcGIS, QGIS, SigmaPlot, regression and geostatistical modelling
+- **Wet lab:** DNA/RNA/protein extraction, PCR, electrophoresis, Western blotting, cloning, cell culture
+
+---
+
+### 🏅 Highlights
+
+- Coordinated high-volume tissue sampling across early breeding pipeline projects at **Bayer Crop Science**, and lifted workflow efficiency by ~15%.
+- Optimised and documented tissue sampling SOPs under a QMS framework to cut errors and improve quality control.
+- Launched a peer mentoring program at Bayer with 15+ mentors and 30+ sessions; received multiple Bayer Recognition Awards.
+- Taught 120+ undergraduates and supervised 15 teaching assistants at the **University of Alberta**, earning a departmental Letter of Commendation and ~CAD 85,000 in fellowships and assistantships.
+
+---
+
+<p align="center"><i>Always happy to talk genomics, crop science, or good data practice. Say hi on <a href="https://au.linkedin.com/in/musfirajamil">LinkedIn</a>.</i></p>
